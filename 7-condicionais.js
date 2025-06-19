@@ -16,5 +16,6 @@ if (idadeComprador >= 18) {
     listaDeDestinos.splice(1, 1); //utilizamos o metodo splice para remover um valor da lista, no caso o São Paulo
 }else {
     console.log("Comprador menor de idade, não pode comprar");
+    cosole.log("Teste");
 }
 
